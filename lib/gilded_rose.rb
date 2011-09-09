@@ -1,0 +1,7 @@
+require 'gilded_rose/base'
+require 'gilded_rose/item'
+require 'gilded_rose/appreciating_item'
+require 'gilded_rose/depreciating_item'
+require 'gilded_rose/legendary_item'
+require 'gilded_rose/conjured_item'
+require 'gilded_rose/event_related_item'
